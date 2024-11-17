@@ -1,6 +1,6 @@
 {
-  "homepage": "https://JeminButani.github.io/CpuScheduling",
-  "name": "project-os",
+  "homepage": "https://cpu-scheduling-alg.netlify.app/",
+  "name": "os-scheduling-algos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
