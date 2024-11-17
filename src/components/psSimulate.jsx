@@ -7,8 +7,7 @@ import { Bar } from "react-chartjs-2";
 import { useMediaQuery } from "@chakra-ui/react";
 import AddInput from "./psSimulate/_AddInput";
 import InputValue from "./psSimulate/_InputValue";
-import { RiArrowGoBackFill } from "react-icons/ri";
-import { FaLaptopCode } from "react-icons/fa";
+
 import reactDom from "react-dom";
 
 const PsSimulate = () => {
